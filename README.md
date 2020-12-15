@@ -6,6 +6,7 @@ Each CarOwner may have a ton of cars, but these folks are fanatical about their 
 
 The basics have been built out for you, but you'll need to figure out the relationships and create most of the methods.  Hook it up!
 
+owner --< car >-- mechanic
 ## Deliverables
 
 Here's what we need to be able to do.
